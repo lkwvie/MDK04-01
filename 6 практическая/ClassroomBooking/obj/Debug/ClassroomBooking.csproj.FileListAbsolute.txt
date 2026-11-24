@@ -1,0 +1,16 @@
+C:\Users\Unit\Desktop\Aferov\6 практическая\ClassroomBooking\bin\Debug\appsettings.json
+C:\Users\Unit\Desktop\Aferov\6 практическая\ClassroomBooking\bin\Debug\ClassroomBooking.exe.config
+C:\Users\Unit\Desktop\Aferov\6 практическая\ClassroomBooking\bin\Debug\ClassroomBooking.exe
+C:\Users\Unit\Desktop\Aferov\6 практическая\ClassroomBooking\bin\Debug\ClassroomBooking.pdb
+C:\Users\Unit\Desktop\Aferov\6 практическая\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.AssemblyReference.cache
+C:\Users\Unit\Desktop\Aferov\6 практическая\ClassroomBooking\obj\Debug\SupportRequestWindow.baml
+C:\Users\Unit\Desktop\Aferov\6 практическая\ClassroomBooking\obj\Debug\MainWindow.baml
+C:\Users\Unit\Desktop\Aferov\6 практическая\ClassroomBooking\obj\Debug\SupportRequestWindow.g.cs
+C:\Users\Unit\Desktop\Aferov\6 практическая\ClassroomBooking\obj\Debug\MainWindow.g.cs
+C:\Users\Unit\Desktop\Aferov\6 практическая\ClassroomBooking\obj\Debug\App.g.cs
+C:\Users\Unit\Desktop\Aferov\6 практическая\ClassroomBooking\obj\Debug\ClassroomBooking_Content.g.cs
+C:\Users\Unit\Desktop\Aferov\6 практическая\ClassroomBooking\obj\Debug\ClassroomBooking_MarkupCompile.cache
+C:\Users\Unit\Desktop\Aferov\6 практическая\ClassroomBooking\obj\Debug\ClassroomBooking.g.resources
+C:\Users\Unit\Desktop\Aferov\6 практическая\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.CoreCompileInputs.cache
+C:\Users\Unit\Desktop\Aferov\6 практическая\ClassroomBooking\obj\Debug\ClassroomBooking.exe
+C:\Users\Unit\Desktop\Aferov\6 практическая\ClassroomBooking\obj\Debug\ClassroomBooking.pdb
