@@ -1,0 +1,53 @@
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\bin\Debug\net8.0-windows\ClassroomBooking.exe
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\bin\Debug\net8.0-windows\ClassroomBooking.deps.json
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\bin\Debug\net8.0-windows\ClassroomBooking.runtimeconfig.json
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\bin\Debug\net8.0-windows\ClassroomBooking.dll
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\bin\Debug\net8.0-windows\ClassroomBooking.pdb
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking_MarkupCompile.cache
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.g.resources
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.AssemblyInfoInputs.cache
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.AssemblyInfo.cs
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.dll
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\obj\Debug\net8.0-windows\refint\ClassroomBooking.dll
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.pdb
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.genruntimeconfig.cache
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\obj\Debug\net8.0-windows\ref\ClassroomBooking.dll
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking\ClassroomBooking\obj\Debug\net8.0-windows\Classroo.AC71F5E2.Up2Date
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking_BACKUP\ClassroomBooking\bin\Debug\net8.0-windows\ClassroomBooking.exe
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking_BACKUP\ClassroomBooking\bin\Debug\net8.0-windows\ClassroomBooking.dll
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking_MarkupCompile.cache
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.g.resources
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.AssemblyInfoInputs.cache
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.AssemblyInfo.cs
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.dll
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\refint\ClassroomBooking.dll
+C:\Users\Екатерина\OneDrive\Desktop\Али\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.pdb
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\bin\Debug\net8.0-windows\ClassroomBooking.exe
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\bin\Debug\net8.0-windows\ClassroomBooking.deps.json
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\bin\Debug\net8.0-windows\ClassroomBooking.runtimeconfig.json
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\bin\Debug\net8.0-windows\ClassroomBooking.dll
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\bin\Debug\net8.0-windows\ClassroomBooking.pdb
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking_MarkupCompile.cache
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.g.resources
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.AssemblyInfoInputs.cache
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.AssemblyInfo.cs
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.csproj.CoreCompileInputs.cache
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.dll
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\refint\ClassroomBooking.dll
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.pdb
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ClassroomBooking.genruntimeconfig.cache
+C:\Users\Unit\Desktop\Aferov\3 практическая\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\net8.0-windows\ref\ClassroomBooking.dll
